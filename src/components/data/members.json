@@ -1,0 +1,89 @@
+[
+    {
+        "id":"01",
+        "name": "Alex Gichau",
+        "email": "gichaumburugmail.com",
+        "phone": "+254799748635",
+        "gender" : "Male"
+    },
+
+    {
+        "id":"02",
+        "name": "Agnes Grace Wanja",
+        "email": "aggygrace4@gmail.com",
+        "phone": "254796866244",
+        "gender" : "Female"
+    },
+
+    {
+        "id":"03",
+        "name": "Collins Wahome",
+        "email": "wahomecollins895@gmail.com",
+        "phone": "254740241059",
+        "gender" : "Male"
+    },
+    {
+        "id":"04",
+        "name": "Jeff Mwangi",
+        "email": "wachiramwa@gmail.com",
+        "phone": "254769056041",
+        "gender" : "Male"
+    },
+    {
+        "id":"05",
+        "name": "Joseph Wanjohi",
+        "email": "iamjoways66@gmail.com",
+        "phone": "254726904316",
+        "gender" : "Male"
+    },
+    {
+        "id":"06",
+        "name": "Ernest Manyara",
+        "email": "ernestmkamau@gmail.com",
+        "phone": "254714931621",
+        "gender" : "Male"
+    },
+    {
+        "id":"07",
+        "name": "Jedidah Mwihaki",
+        "email": "wambugujedida@gmail.com",
+        "phone": "254748635561",
+        "gender" : "Female"
+    },
+    {
+        "id":"08",
+        "name": "Danson Kimani",
+        "email": "dansonkimani17@gmail.com",
+        "phone": "254717567475",
+        "gender" : "Male"
+    },
+    {
+        "id":"09",
+        "name": "Maina Macharia",
+        "email": "machariaf31@gmail.com",
+        "phone": "254742817156",
+        "gender" : "Male"
+    },
+    {
+        "id":"10",
+        "name": "Njenga Ng'ang'a",
+        "email": "nje.nganga9@gmail.com",
+        "phone": "254736673121",
+        "gender" : "Male"
+    },
+    {
+        "id":"11",
+        "name": "Chris Gathogo",
+        "email": "gathogochris394@gmail.com",
+        "phone": "254757176869",
+        "gender" : "Male"
+    },
+    {
+        "id":"12",
+        "name": "Ruth Gitau",
+        "email": "gitaur72@gmail.com",
+        "phone": "254742336975",
+        "gender" : "Female"
+    }
+       
+]
