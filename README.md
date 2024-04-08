@@ -14,6 +14,8 @@ System functionalities:
 [ ] Create a JSON with all members to act as database. 
 [ ] Create a table and logic to assign members. 
 [ ] Test iterations of the data. 
+[ ] Define work shifts and name them
+[ ] Combine a link of all workers with their positions. 
 
 ### Objectives : 
 - Equal assignment of roles
