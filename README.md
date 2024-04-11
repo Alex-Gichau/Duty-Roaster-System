@@ -8,6 +8,8 @@ System functionalities:
 ### Technologies : 
 - React/CSS and Javascript
 - GPT Logic and AI
+- Cumulative roles
+
 
 
 ### Work Plan : 
