@@ -22,7 +22,9 @@ System functionalities:
 ### Objectives : 
 - Equal assignment of roles
 - Each members takes part in every role equal number of times.
-- Generate a longer routine while maintaining balance. 
+- Generate a longer routine while maintaining balance.
+
+Making the plan accessible with date changer and other feature. Sort by date
 
 
 ### Future of the project : 
