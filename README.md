@@ -31,4 +31,4 @@ Making the plan accessible with date changer and other feature. Sort by date
 - Each member can have a profile to view their data. 
 - Each member can access and mark attendance
 - Each member can give a vacation notice, and the system autosuggests someone to take over. 
-- New members can be added to the platform and have accounts. 
+- New members can be added to the platform and have accounts. ...
